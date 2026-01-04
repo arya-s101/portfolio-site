@@ -147,7 +147,7 @@ body {
 
 .main-split {
   display: flex;
-  min-height: calc(100svh - 110px);
+  min-height: calc(100svh - 87px);
   width: 100%;
   flex-wrap: wrap; 
   overflow-x: hidden;
@@ -158,6 +158,7 @@ body {
 }
 
 .content-wrapper {
+  min-height: calc(100svh - 87px);
 }
 
 .bio-section {
