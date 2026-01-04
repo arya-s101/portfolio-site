@@ -5,7 +5,7 @@ export function Software() {
     {
       title: "PERSONAL PORTFOLIO WEBSITE",
       description:
-        "A responsive portfolio website built on ReactJS, with the assistance of Claude and GPT-5, to showcase my projects and experience.",
+        "A responsive portfolio website built with React (Vite), leveraging modern developer tools (including LLMs) to accelerate iteration and debugging. It is deployed on an AWS S3 bucket and served via Amazon CloudFront with a custom domain managed through Route 53.",
       link: "http://aryasaravanan.com",
     },
     {
